@@ -77,12 +77,4 @@ If you would like to contribute to this project, follow these steps:
 
 6. Create a pull request to merge your changes into the main project.
 
-Please follow the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md) in all your interactions with the project.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README to include any additional information or instructions specific to your project.
